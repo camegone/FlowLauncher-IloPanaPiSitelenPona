@@ -1,0 +1,14 @@
+{
+    "$schema": "https://www.flowlauncher.com/schemas/plugin.schema.json",
+    
+    "ID": "019947d4-f05a-7552-bc59-66c5027d75f5",
+    "ActionKeyword": "tok",
+    "Name": "Ilo Pana Pi Sitelen Pona",
+    "Description": "A plugin helps you typing in sitelen pona (toki pona chars).",
+    "Author": "camegone",
+    "Version": "0.0.0",
+    "Language": "python",
+    "Website": "https://example.com",
+    "IcoPath": "images\\icon.png",
+    "ExecuteFileName": "main.py"
+}
